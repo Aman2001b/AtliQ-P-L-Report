@@ -7,4 +7,6 @@ AtliQ Hardwares is a company moving towards advanced analytics, but here Excel s
 2.[Market Performance vs Sales Target Report](https://github.com/Aman2001b/AtliQ-P-L-Report/blob/main/market_perf_vs_target2021.pdf)
 
 # Finance Report
-1.[ P & L Report by Fiscal Year](url)
+1.[ P & L Report by Fiscal Year](https://github.com/Aman2001b/AtliQ-P-L-Report/blob/main/p%26L_by_FY.pdf)
+
+2.P & L Report by Months
